@@ -1,9 +1,0 @@
-Package: com.mrjeff.uconnect
-Name: uconnect bypass
-Author: MrJeff
-Description: Bypasses Uconnect jailbreak alert
-Depends: mobilesubstrate
-Maintainer: MrJeff <mrjeff420@yahoo.com>
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.0.0
