@@ -1,0 +1,7 @@
+/.theos
+obj
+.DS_Store
+/*.xcodeproj
+Makefile
+Tweak.xm
+*.plist
